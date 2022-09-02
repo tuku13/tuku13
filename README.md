@@ -1,6 +1,6 @@
 - Hi, I’m Martin Lényi
 - I’m interested in Mobile and Backend development.
-- Favourite languages: Java, Kotlin and C#
+- Favourite languages: Kotlin, Java and C#
 - I’m currently studying at BME.
 
 <!--
