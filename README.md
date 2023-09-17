@@ -1,7 +1,7 @@
 - Hi, I’m Martin Lényi
-- I’m interested in Mobile and Backend development.
-- Favourite languages: Kotlin, Java and C#
-- I’m currently studying at BME.
+- I’m interested in Web and Mobile development.
+- Favourite languages: Java, Kotlin and TypeScript
+- I’m currently studying Computer Science Engineering at BME.
 
 <!--
 tuku13/tuku13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
